@@ -1,0 +1,20 @@
+/*----------  Variaveis  ----------*/
+
+$color-primary: rgb(209, 63, 63);
+
+
+
+
+
+
+
+
+
+
+/*----------  Mixin  ----------*/
+
+@mixin flex ($d : row) {
+  display       : flex;
+  align-items   : center;
+  flex-direction: $d;
+}

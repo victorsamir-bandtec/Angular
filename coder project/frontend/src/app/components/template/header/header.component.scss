@@ -1,0 +1,36 @@
+@import '../../../../variaveis.scss';
+
+/*----------  Header  ----------*/
+
+
+.header {
+  @include flex;
+
+  span {
+
+    a {
+      display        : flex;
+      align-items    : center;
+      text-decoration: none;
+
+      cursor: pointer;
+    }
+
+    .logo {
+      width: 150px;
+    }
+  }
+
+  .title {
+
+    a {
+      padding-left: 30px;
+
+
+    }
+
+    i {
+      padding-right: 3px;
+    }
+  }
+}
