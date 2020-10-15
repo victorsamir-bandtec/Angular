@@ -1,0 +1,29 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "name": "Computador",
+      "price": 1200
+    },
+    {
+      "id": 2,
+      "name": "Fone de ouvido",
+      "price": 199.99
+    },
+    {
+      "id": 3,
+      "name": "Celular",
+      "price": 999.99
+    },
+    {
+      "id": 4,
+      "name": "televisor",
+      "price": 2200
+    },
+    {
+      "name": "orelha",
+      "price": "300.00",
+      "id": 7
+    }
+  ]
+}
